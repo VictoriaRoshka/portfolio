@@ -1,0 +1,158 @@
+.backone {
+    background-image: url("https://funart.pro/uploads/posts/2021-12/1640454299_4-funart-pro-p-temno-sinie-foni-s-uzorami-4.jpg");
+    width: 1536px;
+    height: 150px;
+    
+}
+.linkbox {
+    width: 1000px;
+    height: 150px;
+    margin: auto;
+    display: flex;
+    flex-direction: row;
+}
+
+.links {
+    width: 150px;
+    height: 50px;
+    display: inline-block;
+    margin-left: 30px;
+    text-align: center;
+    padding-top: 20px;
+    margin-top: 25px;
+    font-family: 'EB Garamond', serif;
+    font-size: 25px;
+    color:azure 
+}
+
+.backtwo {
+    width: 1536px;
+    height: 1600px;
+    background-image: url("https://img.freepik.com/free-photo/white-concrete-wall_53876-92803.jpg?size=626&ext=jpg");
+    background-size:auto;
+}
+
+.mebox{
+    width: 1536px;
+    display:flex;
+    flex-direction: row;
+    justify-content: center;
+    margin-top: 100px;
+}
+
+.aboutme {
+font-family: 'Cormorant Infant', serif;
+font-size: 25px;
+width: 500px;
+height: 500px;
+display: inline-block;
+margin-top: 20px;
+}
+
+.title{
+    font-family: 'EB Garamond', serif;
+    font-size: 30px;
+    font-weight:bold;
+    padding-top: 25px;
+    padding-right: 200px;
+    margin-bottom: 30px;
+}
+
+.photo{
+    width: 500px;
+    height: 500px;
+    object-position: center;
+    object-fit: contain;
+    margin-right: 100px;
+}
+.listbox{
+    width: 1536px;
+    height: 200px;
+    display:flex;
+    flex-direction: row;
+    justify-content: center;
+    align-items: center;
+}
+
+.list {
+    width: 300px;
+    font-size: 25px;
+    font-family: 'Cormorant Infant', serif;
+}
+
+.skillbox{
+    width: 1536px;
+    height: 200px;
+}
+
+.skill{
+    width: 150px;
+    background-color: rgb(44, 88, 142);
+    border-radius: 30px;
+    display:inline-block;
+    color:azure;
+    padding: 5px 5px 5px 5px;
+    margin: 50px 10px 10px 150px;    
+}
+
+.myworks{ 
+    width: 1535px;
+    height: 500px;
+    margin-top: 50px;
+}
+
+.work{
+    width: 200px;
+    font-size: 25px;
+    font-family:'Cormorant Infant', serif;
+    display: inline-block;
+    margin: 10px 200px 10px 0px;
+}
+
+.progectimage{
+    width: 200px;
+    height: 200px;
+    background-color:rgb(28, 47, 133);
+    opacity:0.6;
+    display:inline-block;
+    margin: 10px 200px 10px 0px;
+    border-radius: 10px;
+}
+
+.backthree{
+    width: 1536px;
+    height: 300px;
+    background-color: rgb(42, 49, 64);
+    opacity: 0.9;
+}
+
+.Title{
+    font-family: 'EB Garamond', serif;
+    font-size: 30px;
+    font-weight: bold;
+    padding-top: 25px;
+    padding-right: 200px;
+    margin-bottom: 30px;
+    color: azure;
+    text-shadow:2px 2px 2px black;
+}
+
+.contact{
+    display:flex;
+    align-items: center;
+    margin-left: 50px;
+}
+
+.icon{
+    width: 30px;
+    margin: 20px;
+}
+
+.text{
+font-family: 'Cormorant Infant', serif;
+font-size: 25px;
+color: azure;
+}
+.a{
+    text-decoration: none;
+}
